@@ -28,7 +28,6 @@ class Node(
         }
     }
 
-    // TODO:: Implement to return the length of the SinglyLinkedList
     fun length(h: Node?): Int {
         var totalCustomerCount = 0
         var current: Node? = h
