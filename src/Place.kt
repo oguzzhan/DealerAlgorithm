@@ -1,0 +1,1 @@
+class Place(var coordinate: Coordinate, val name:String)
